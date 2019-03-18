@@ -1,2 +1,2 @@
 # practice-repository
-Practice
+This is the second repository created as part of a practice exercise
